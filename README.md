@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nageshwar-mehta
 - 👀 I’m interested in Codding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on with myself
-- 📫 How to reach me IIT
+- 🌱 I’m currently learning Robotics,AI & ML
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me? -> IIT Jammu
 
 <!---
 nageshwar-mehta/nageshwar-mehta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
