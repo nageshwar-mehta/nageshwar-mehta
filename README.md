@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nageshwar-mehta
-- 👀 I’m interested in Codding
-- 🌱 I’m currently learning Robotics,AI & ML
+- 👋 Hi, I’m @nageshwar-mehta || Rahul Mehta
+- 👀 I’m interested in IoT, Coding and Robotics.
+- 🌱 I’m currently learning Robotics, AI & ML
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me? -> IIT Jammu
 
