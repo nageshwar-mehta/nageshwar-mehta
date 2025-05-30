@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there! 👋 I'm <span style="color:#00C9A7">Nageshwar Kumar (aka Rahul Mehta)</span>
+  Hey there! 👋 I'm <span style="color:#00C9A7">Nageshwar Kumar || Rahul Mehta</span>
 </h1>
 
 <p align="center">
