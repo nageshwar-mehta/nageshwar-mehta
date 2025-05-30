@@ -86,29 +86,61 @@
 
 ---
 
+
 ## 🚀 Highlighted Projects
 
-### 🧤 [Tactile Glove](https://github.com/nageshwar-mehta/tactile-glove) — Deafblind Communication Device
-- 🔁 Converts text ↔ tactile patterns
-- 🏅 ₹2L Awarded | Patent Filed | Hyundai Hope Scholarship
+<div align="center">
 
-### 🔦 [Laser Warning System](https://github.com/nageshwar-mehta/laser-warning-system)
-- 🛡️ Detects laser-based threats for military
-- 💰 ₹1.5L Grant | Built for Indian Army
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/nageshwar-mehta/tactile-glove">
+        <img src="https://skillicons.dev/icons?i=arduino,esp32" height="40"/><br/>
+        <strong>Tactile Glove</strong><br/>
+        <sub>Text ↔ Tactile | ₹2L Award | Patent Filed</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/nageshwar-mehta/laser-warning-system">
+        <img src="https://skillicons.dev/icons?i=c,embedded" height="40"/><br/>
+        <strong>Laser Warning System</strong><br/>
+        <sub>Defense Use | ₹1.5L Grant | Indian Army</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/nageshwar-mehta/anti-gps-jamming-system">
+        <img src="https://skillicons.dev/icons?i=python,signal" height="40"/><br/>
+        <strong>Anti-GPS Jamming</strong><br/>
+        <sub>Military Use | DSP & GNSS</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/nageshwar-mehta/plant-water-stress-detector">
+        <img src="https://skillicons.dev/icons?i=arduino" height="40"/><br/>
+        <strong>Plant Stress Detector</strong><br/>
+        <sub>Dual Patents | IR + CWSI</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/nageshwar-mehta/vimaan-calc">
+        <img src="https://skillicons.dev/icons?i=html,css" height="40"/><br/>
+        <strong>VimaanCalc</strong><br/>
+        <sub>Drone Analysis Tool</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/nageshwar-mehta/mesh-network">
+        <img src="https://skillicons.dev/icons?i=iot,radio" height="40"/><br/>
+        <strong>Mesh Network</strong><br/>
+        <sub>LoRa Mesh | Remote Areas</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📡 [Anti-GPS Jamming System](https://github.com/nageshwar-mehta/anti-gps-jamming-system)
-- 🛰️ Mitigates GPS spoofing on defense vehicles
-- 🎯 Safron, Neo-M8M, DSP Techniques
-
-### 🌱 [Plant Water Stress Detector](https://github.com/nageshwar-mehta/plant-water-stress-detector)
-- 🌿 Uses IR sensors + CWSI for plant health
-- 📜 Dual Patents Filed
-
-### 🛩️ [VimaanCalc](https://github.com/nageshwar-mehta/vimaan-calc)
-- ✈️ Web app to compute drone propulsion parameters
-
-### 📶 [Mesh Network System](https://github.com/nageshwar-mehta/mesh-network)
-- 🏕️ LoRa-based communication for rural areas
+</div>
 
 ---
 
