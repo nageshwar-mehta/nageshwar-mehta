@@ -16,7 +16,7 @@
 - 🧠 Passionate about **IoT**, **Machine Learning**, and **Hardware-Software Integration**
 - 🏆 Winner: **Invention-Factory**, Runner-Up: **Pitchers 3.0**
 - 🤝 Collaborated with the **Indian Army** on defense tech projects
-- 📬 Reach me at: [2022uee0138@iitjammu.ac.in](mailto:2022uee0138@iitjammu.ac.in) [nagesh03mehta@gmail.com](mailto:nagesh03mehta@gmail.com)
+- 📬 Reach me at: [2022uee0138@iitjammu.ac.in](mailto:2022uee0138@iitjammu.ac.in) || [nagesh03mehta@gmail.com](mailto:nagesh03mehta@gmail.com)
 
 ---
 
