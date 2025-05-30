@@ -94,44 +94,44 @@
 <table>
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/nageshwar-mehta/tactile-glove">
+      <a href="[https://github.com/nageshwar-mehta/tactile-glove](https://github.com/nageshwar-mehta/Invention-Factory)">
         <img src="https://skillicons.dev/icons?i=arduino,esp32" height="40"/><br/>
         <strong>Tactile Glove</strong><br/>
         <sub>Text ↔ Tactile | ₹2L Award | Patent Filed</sub>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/nageshwar-mehta/laser-warning-system">
+      <a href="[https://github.com/nageshwar-mehta/laser-warning-system](https://github.com/nageshwar-mehta/LWS)">
         <img src="https://skillicons.dev/icons?i=c,embedded" height="40"/><br/>
         <strong>Laser Warning System</strong><br/>
         <sub>Defense Use | ₹1.5L Grant | Indian Army</sub>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/nageshwar-mehta/anti-gps-jamming-system">
+<!--       <a href="https://github.com/nageshwar-mehta/anti-gps-jamming-system"> -->
         <img src="https://skillicons.dev/icons?i=python,signal" height="40"/><br/>
         <strong>Anti-GPS Jamming</strong><br/>
-        <sub>Military Use | DSP & GNSS</sub>
+        <sub>Military Use |Hardware, DSP & GNSS</sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/nageshwar-mehta/plant-water-stress-detector">
+      <a href="[https://github.com/nageshwar-mehta/plant-water-stress-detector](https://github.com/nageshwar-mehta/Mini-project-24)">
         <img src="https://skillicons.dev/icons?i=arduino" height="40"/><br/>
         <strong>Plant Stress Detector</strong><br/>
         <sub>Dual Patents | IR + CWSI</sub>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/nageshwar-mehta/vimaan-calc">
+      <a href="[Website link](https://vimaan-calc.vercel.app/)">
         <img src="https://skillicons.dev/icons?i=html,css" height="40"/><br/>
         <strong>VimaanCalc</strong><br/>
         <sub>Drone Analysis Tool</sub>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/nageshwar-mehta/mesh-network">
+      <a href="[https://github.com/nageshwar-mehta/mesh-network](https://github.com/nageshwar-mehta/LORA)">
         <img src="https://skillicons.dev/icons?i=iot,radio" height="40"/><br/>
         <strong>Mesh Network</strong><br/>
         <sub>LoRa Mesh | Remote Areas</sub>
