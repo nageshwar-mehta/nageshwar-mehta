@@ -23,42 +23,66 @@
 
 ---
 
-## 🧠 Relevant Coursework
+## 📘 Relevant Coursework
 
-```
-Machine Learning | Data Structures | Internet of Things | Robotics & Automation
-Control Systems | Digital Communication | RF & Antennas | Embedded Systems | Signal Processing
-```
+<table>
+  <tr>
+    <td><strong>💡 Core:</strong></td>
+    <td>Data Structures & Algorithms, Control Systems, Signal Processing, Digital Communication</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 Specialization:</strong></td>
+    <td>Machine Learning, Embedded Systems, Internet of Things, Robotics & Automation</td>
+  </tr>
+  <tr>
+    <td><strong>📡 Domain-Specific:</strong></td>
+    <td>RF & Antenna Design, Wireless Communication, Sensors & Instrumentation</td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
+### 🖥️ Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white"/>
+</p>
 
-### 🧪 Tools & Platforms
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge&logo=semtech&logoColor=white)
-![ChirpStack](https://img.shields.io/badge/ChirpStack-000000?style=for-the-badge&logo=chirpstack&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+### 🧠 AI/ML & Data
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-### 📚 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🔌 Embedded & IoT
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge&logo=semtech&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChirpStack-000000?style=for-the-badge&logo=chirpstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ThingsSpeak-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TheThingsNetwork-black?style=for-the-badge"/>
+</p>
 
-### 🔧 CAD/Simulation
-KiCad | CST Studio Suite | MATLAB | ADS | SolidWorks | Onshape | Godot | LaTeX
+### 🔧 Tools & Simulation
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidWorks-red?style=for-the-badge&logo=solidworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ADS-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CST%20Studio-blue?style=for-the-badge"/>
+</p>
 
 ---
 
