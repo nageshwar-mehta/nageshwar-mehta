@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://nageshwar-kumar.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=IoT+Engineer+%7C+ML+Enthusiast+%7C+Hardware-Software+Integrator;Final+Year+Student+at+IIT+Jammu" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=IoT+%7C+ML+%7C+Hardware-Software+Integration;Final+Year+Student+at+IIT+Jammu" alt="Typing SVG" />
   </a>
 </p>
 
