@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
+**Programming Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,11 +30,37 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logo=verilog&logoColor=white)
 
-**Tools & Frameworks:**  
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**IoT & Embedded:**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP](https://img.shields.io/badge/ESP-000000?style=flat&logo=espressif&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-00AEEF?style=flat&logo=semtech&logoColor=white)
 ![ChirpStack](https://img.shields.io/badge/ChirpStack-000000?style=flat&logo=chirpstack&logoColor=white)
+![ThingsSpeak](https://img.shields.io/badge/ThingsSpeak-00AEEF?style=flat&logo=thingspeak&logoColor=white)
+
+**ML/DL Frameworks:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**CAD & Simulation:**  
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-0076A8?style=flat&logo=solidworks&logoColor=white)
+![CST Studio](https://img.shields.io/badge/CST_Studio-000000?style=flat&logo=cststudio&logoColor=white)
+![ADS](https://img.shields.io/badge/Advanced_Design_System-000000?style=flat&logo=advanced-design-system&logoColor=white)
+
+**Relevant Coursework:**  
+`Machine Learning` `Data Structures` `Internet of Things` `Robotics & Automation`  
+`Control Systems` `Digital Communication` `RF & Antennas` `Embedded Systems` `Signal Processing`
 
 ---
 
